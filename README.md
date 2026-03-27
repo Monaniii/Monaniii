@@ -4,7 +4,7 @@
 
 ### Senior Backend Engineer • FinTech • Automation • Trading Systems
 
-💻 Java | Spring Boot | Laravel | Finacle  
+💻 Java | Spring Boot | Laravel | Django|Finacle  
 📈 Backend Architecture | APIs | Core Banking | Algo Trading  
 
 </div>
