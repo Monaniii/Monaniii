@@ -4,14 +4,14 @@
 
 ### Senior Backend Engineer • FinTech • Automation • Trading Systems
 
-💻 Java | Spring Boot | Laravel | Django|Finacle  
-📈 Backend Architecture | APIs | Core Banking | Algo Trading  
+Java | Spring Boot | Laravel | Django|Finacle  
+Backend Architecture | APIs | Core Banking | Algo Trading  
 
 </div>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I’m a backend-focused software engineer with strong experience designing and building  
 **secure, scalable, and business-critical systems**, especially within **financial and enterprise environments**.
@@ -26,32 +26,37 @@ I believe in **clean code, clear logic, and systems that don’t break at 2 AM**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🚀 Backend & Frameworks
+###  Backend & Frameworks
 - **Java** – Spring Boot, JPA, Hibernate  
-- **PHP** – Laravel  
+- **PHP** – Laravel,Symphony
+- - **PYTHON** – Django  
 - RESTful APIs & Microservices  
 
 ### 🗄️ Databases
 - Oracle  
-- MySQL / PostgreSQL  
+- MySQL 
+- PostgreSQL
+- MariaDB
 
-### 🏦 Enterprise & FinTech
-- Finacle Core Banking
+### Enterprise & FinTech
+- Finacle Core Banking Modules
 - Userhooks & Scripting
+- Report Creation
+- Custom Product Creation
 - Maker–Checker workflows
 - Transaction limits & audit trails
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 - Git & GitHub  
 - Linux  
-- Docker (foundational)  
+- Docker 
 - CI/CD concepts  
 
 ---
 
-## 📈 Trading & Automation
+## Trading & Automation
 
 - Algorithmic trading 
 - Market structure & liquidity concepts
@@ -62,7 +67,7 @@ I believe in **clean code, clear logic, and systems that don’t break at 2 AM**
 
 ---
 
-## 📂 Selected Work
+##  Selected Work
 
 🔹 **Finacle Limits & Approval Automation**  
 Custom userhooks for high-value transaction controls, approvals, and audit trails.
@@ -73,21 +78,21 @@ Secure APIs with authentication, validation, and clean layered architecture.
 🔹 **Trading Automation Tools**  
 Indicators, Expert Advisors, and analytics for disciplined trading decisions.
 
-*(More projects shipping quietly — consistency over noise.)*
+*(More projects shipping quietly.)*
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 💼 Open to backend, fintech, and automation collaborations  
-- 🧠 Always learning, always refining  
-- 📬 Reach out via GitHub discussions or issues  
+-  Open to backend, fintech, and automation collaborations  
+- Always learning, always refining  
+-  Reach out via GitHub discussions or issues  
 
 ---
 
 <div align="center">
 
-⭐ If you value clean backend systems and thoughtful engineering, welcome.
+ If you value clean backend systems and thoughtful engineering, welcome.
 
 </div>
 
