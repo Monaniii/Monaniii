@@ -4,7 +4,7 @@
 
 ### Senior Backend Engineer • FinTech • Automation • Trading Systems
 
-Java | Spring Boot | Laravel | Django|Finacle  
+Java | Spring Boot | Laravel | Django|Machine Learning|Finacle  
 Backend Architecture | APIs | Core Banking | Algo Trading  
 
 </div>
@@ -22,7 +22,7 @@ I enjoy working on:
 - Automation that removes human error
 - Trading systems where **discipline beats emotion**
 
-I believe in **clean code, clear logic, and systems that don’t break at 2 AM**.
+I believe in **clean code, clear logic, and systems that don’t break**.
 
 ---
 
@@ -31,30 +31,9 @@ I believe in **clean code, clear logic, and systems that don’t break at 2 AM**
 ###  Backend & Frameworks
 - **Java** – Spring Boot, JPA, Hibernate  
 - **PHP** – Laravel,Symphony
-- - **PYTHON** – Django  
-- RESTful APIs & Microservices  
+- **PYTHON** – Django
+- **NODE**  
 
-### 🗄️ Databases
-- Oracle  
-- MySQL 
-- PostgreSQL
-- MariaDB
-
-### Enterprise & FinTech
-- Finacle Core Banking Modules
-- Userhooks & Scripting
-- Report Creation
-- Custom Product Creation
-- Maker–Checker workflows
-- Transaction limits & audit trails
-
-### Tools & Platforms
-- Git & GitHub  
-- Linux  
-- Docker 
-- CI/CD concepts  
-
----
 
 ## Trading & Automation
 
@@ -62,8 +41,8 @@ I believe in **clean code, clear logic, and systems that don’t break at 2 AM**
 - Market structure & liquidity concepts
 - Risk management & trade performance tracking
 - MT5 Expert Advisors & indicators
-
-> *Trade with structure. Code with discipline. Risk small. Think long-term.*
+- Machine Learning Trading Engines
+> *Trade with structure. Code with discipline. Think long-term.*
 
 ---
 
